@@ -1,5 +1,6 @@
 {
   "fromCurrency": "THB",
   "toCurrency": "PLN",
-  "rate": 9.3621761
+  "rate": 9.3621761,
+  "lastUpdate": 1717171179548
 }

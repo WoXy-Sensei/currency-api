@@ -1,5 +1,6 @@
 {
   "fromCurrency": "AUD",
   "toCurrency": "DKK",
-  "rate": 0.2187349
+  "rate": 0.2187349,
+  "lastUpdate": 1717171179098
 }

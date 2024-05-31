@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CHF",
   "toCurrency": "IDR",
-  "rate": 0.0000557
+  "rate": 0.0000557,
+  "lastUpdate": 1717171179000
 }

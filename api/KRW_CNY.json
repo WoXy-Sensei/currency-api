@@ -1,5 +1,6 @@
 {
   "fromCurrency": "KRW",
   "toCurrency": "CNY",
-  "rate": 191.0368174
+  "rate": 191.0368174,
+  "lastUpdate": 1717171179346
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "DKK",
   "toCurrency": "HKD",
-  "rate": 0.8791815
+  "rate": 0.8791815,
+  "lastUpdate": 1717171178827
 }

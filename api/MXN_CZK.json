@@ -1,5 +1,6 @@
 {
   "fromCurrency": "MXN",
   "toCurrency": "CZK",
-  "rate": 0.7462342
+  "rate": 0.7462342,
+  "lastUpdate": 1717171179360
 }

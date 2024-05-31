@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CHF",
   "toCurrency": "JPY",
-  "rate": 0.0057577
+  "rate": 0.0057577,
+  "lastUpdate": 1717171178983
 }

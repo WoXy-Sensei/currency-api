@@ -1,5 +1,6 @@
 {
   "fromCurrency": "USD",
   "toCurrency": "GBP",
-  "rate": 1.271247
+  "rate": 1.271247,
+  "lastUpdate": 1717171178689
 }

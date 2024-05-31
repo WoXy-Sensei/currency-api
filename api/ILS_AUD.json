@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ILS",
   "toCurrency": "AUD",
-  "rate": 2.4726938
+  "rate": 2.4726938,
+  "lastUpdate": 1717171179278
 }

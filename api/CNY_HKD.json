@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CNY",
   "toCurrency": "HKD",
-  "rate": 0.9262005
+  "rate": 0.9262005,
+  "lastUpdate": 1717171179193
 }

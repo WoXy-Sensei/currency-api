@@ -1,5 +1,6 @@
 {
   "fromCurrency": "DKK",
   "toCurrency": "CNY",
-  "rate": 0.9492345
+  "rate": 0.9492345,
+  "lastUpdate": 1717171178826
 }

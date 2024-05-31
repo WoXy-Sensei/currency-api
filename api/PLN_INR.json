@@ -1,5 +1,6 @@
 {
   "fromCurrency": "PLN",
   "toCurrency": "INR",
-  "rate": 0.0471083
+  "rate": 0.0471083,
+  "lastUpdate": 1717171178917
 }

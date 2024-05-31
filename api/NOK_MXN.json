@@ -1,5 +1,6 @@
 {
   "fromCurrency": "NOK",
   "toCurrency": "MXN",
-  "rate": 0.6173429
+  "rate": 0.6173429,
+  "lastUpdate": 1717171179061
 }

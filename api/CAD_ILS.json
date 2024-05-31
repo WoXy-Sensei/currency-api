@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CAD",
   "toCurrency": "ILS",
-  "rate": 0.3669625
+  "rate": 0.3669625,
+  "lastUpdate": 1717171179167
 }

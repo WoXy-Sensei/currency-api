@@ -1,5 +1,6 @@
 {
   "fromCurrency": "NOK",
   "toCurrency": "AUD",
-  "rate": 6.977015
+  "rate": 6.977015,
+  "lastUpdate": 1717171179052
 }

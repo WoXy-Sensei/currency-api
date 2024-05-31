@@ -1,5 +1,6 @@
 {
   "fromCurrency": "BGN",
   "toCurrency": "KRW",
-  "rate": 0.0013029
+  "rate": 0.0013029,
+  "lastUpdate": 1717171178773
 }

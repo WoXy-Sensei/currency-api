@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HUF",
   "toCurrency": "IDR",
-  "rate": 0.0220404
+  "rate": 0.0220404,
+  "lastUpdate": 1717171178888
 }

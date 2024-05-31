@@ -1,5 +1,6 @@
 {
   "fromCurrency": "RON",
   "toCurrency": "NZD",
-  "rate": 2.8123305
+  "rate": 2.8123305,
+  "lastUpdate": 1717171178949
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "BRL",
   "toCurrency": "ILS",
-  "rate": 1.3984929
+  "rate": 1.3984929,
+  "lastUpdate": 1717171179141
 }

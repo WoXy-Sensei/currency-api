@@ -1,5 +1,6 @@
 {
   "fromCurrency": "PHP",
   "toCurrency": "ISK",
-  "rate": 0.4265862
+  "rate": 0.4265862,
+  "lastUpdate": 1717171179450
 }

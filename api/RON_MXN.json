@@ -1,5 +1,6 @@
 {
   "fromCurrency": "RON",
   "toCurrency": "MXN",
-  "rate": 0.2699051
+  "rate": 0.2699051,
+  "lastUpdate": 1717171178947
 }

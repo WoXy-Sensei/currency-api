@@ -1,5 +1,6 @@
 {
   "fromCurrency": "KRW",
   "toCurrency": "ILS",
-  "rate": 372.0960785
+  "rate": 372.0960785,
+  "lastUpdate": 1717171179348
 }

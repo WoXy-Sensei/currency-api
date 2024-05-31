@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HKD",
   "toCurrency": "CHF",
-  "rate": 8.6410674
+  "rate": 8.6410674,
+  "lastUpdate": 1717171179213
 }

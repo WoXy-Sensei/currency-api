@@ -1,5 +1,6 @@
 {
   "fromCurrency": "PHP",
   "toCurrency": "THB",
-  "rate": 1.593087
+  "rate": 1.593087,
+  "lastUpdate": 1717171179481
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "IDR",
   "toCurrency": "EUR",
-  "rate": 17641.72
+  "rate": 17641.72,
+  "lastUpdate": 1717171179237
 }

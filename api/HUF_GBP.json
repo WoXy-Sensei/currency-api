@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HUF",
   "toCurrency": "GBP",
-  "rate": 455.4911263
+  "rate": 455.4911263,
+  "lastUpdate": 1717171178876
 }

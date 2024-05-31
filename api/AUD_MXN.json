@@ -1,5 +1,6 @@
 {
   "fromCurrency": "AUD",
   "toCurrency": "MXN",
-  "rate": 0.0884824
+  "rate": 0.0884824,
+  "lastUpdate": 1717171179114
 }

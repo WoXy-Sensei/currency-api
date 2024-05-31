@@ -1,5 +1,6 @@
 {
   "fromCurrency": "RON",
   "toCurrency": "INR",
-  "rate": 0.0549757
+  "rate": 0.0549757,
+  "lastUpdate": 1717171178945
 }

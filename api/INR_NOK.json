@@ -1,5 +1,6 @@
 {
   "fromCurrency": "INR",
   "toCurrency": "NOK",
-  "rate": 7.9526926
+  "rate": 7.9526926,
+  "lastUpdate": 1717171179305
 }

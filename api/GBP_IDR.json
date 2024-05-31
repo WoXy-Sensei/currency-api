@@ -1,5 +1,6 @@
 {
   "fromCurrency": "GBP",
   "toCurrency": "IDR",
-  "rate": 0.0000484
+  "rate": 0.0000484,
+  "lastUpdate": 1717171178859
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "PHP",
   "toCurrency": "NOK",
-  "rate": 5.5876307
+  "rate": 5.5876307,
+  "lastUpdate": 1717171179459
 }

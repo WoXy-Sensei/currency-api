@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ISK",
   "toCurrency": "CZK",
-  "rate": 6.0342385
+  "rate": 6.0342385,
+  "lastUpdate": 1717171179013
 }

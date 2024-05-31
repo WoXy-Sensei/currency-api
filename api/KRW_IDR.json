@@ -1,5 +1,6 @@
 {
   "fromCurrency": "KRW",
   "toCurrency": "IDR",
-  "rate": 0.0850886
+  "rate": 0.0850886,
+  "lastUpdate": 1717171179347
 }

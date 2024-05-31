@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CHF",
   "toCurrency": "NZD",
-  "rate": 0.5548146
+  "rate": 0.5548146,
+  "lastUpdate": 1717171179004
 }

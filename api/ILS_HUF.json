@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ILS",
   "toCurrency": "HUF",
-  "rate": 0.0103752
+  "rate": 0.0103752,
+  "lastUpdate": 1717171179270
 }

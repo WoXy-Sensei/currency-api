@@ -1,5 +1,6 @@
 {
   "fromCurrency": "IDR",
   "toCurrency": "JPY",
-  "rate": 103.4583627
+  "rate": 103.4583627,
+  "lastUpdate": 1717171179239
 }

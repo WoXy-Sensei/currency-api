@@ -1,5 +1,6 @@
 {
   "fromCurrency": "JPY",
   "toCurrency": "ILS",
-  "rate": 42.2686034
+  "rate": 42.2686034,
+  "lastUpdate": 1717171178740
 }

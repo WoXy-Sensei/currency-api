@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ILS",
   "toCurrency": "TRY",
-  "rate": 0.1153647
+  "rate": 0.1153647,
+  "lastUpdate": 1717171179277
 }

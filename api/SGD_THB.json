@@ -1,5 +1,6 @@
 {
   "fromCurrency": "SGD",
   "toCurrency": "THB",
-  "rate": 0.0367264
+  "rate": 0.0367264,
+  "lastUpdate": 1717171179530
 }

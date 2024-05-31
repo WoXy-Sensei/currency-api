@@ -1,5 +1,6 @@
 {
   "fromCurrency": "DKK",
   "toCurrency": "EUR",
-  "rate": 7.4588
+  "rate": 7.4588,
+  "lastUpdate": 1717171178810
 }

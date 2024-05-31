@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CNY",
   "toCurrency": "SEK",
-  "rate": 0.6880046
+  "rate": 0.6880046,
+  "lastUpdate": 1717171179184
 }

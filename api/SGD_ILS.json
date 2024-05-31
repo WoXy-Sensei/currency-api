@@ -1,5 +1,6 @@
 {
   "fromCurrency": "SGD",
   "toCurrency": "ILS",
-  "rate": 0.3634674
+  "rate": 0.3634674,
+  "lastUpdate": 1717171179515
 }

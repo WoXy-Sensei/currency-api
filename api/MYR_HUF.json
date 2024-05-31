@@ -1,5 +1,6 @@
 {
   "fromCurrency": "MYR",
   "toCurrency": "HUF",
-  "rate": 0.0131368
+  "rate": 0.0131368,
+  "lastUpdate": 1717171179385
 }

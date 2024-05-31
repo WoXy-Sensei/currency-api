@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ZAR",
   "toCurrency": "PHP",
-  "rate": 0.3190475
+  "rate": 0.3190475,
+  "lastUpdate": 1717171179639
 }

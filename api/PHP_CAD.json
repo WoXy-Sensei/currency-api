@@ -1,5 +1,6 @@
 {
   "fromCurrency": "PHP",
   "toCurrency": "CAD",
-  "rate": 42.9640638
+  "rate": 42.9640638,
+  "lastUpdate": 1717171179462
 }

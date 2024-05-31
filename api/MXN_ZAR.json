@@ -1,5 +1,6 @@
 {
   "fromCurrency": "MXN",
   "toCurrency": "ZAR",
-  "rate": 0.9086371
+  "rate": 0.9086371,
+  "lastUpdate": 1717171179379
 }

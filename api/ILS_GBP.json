@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ILS",
   "toCurrency": "GBP",
-  "rate": 4.7258244
+  "rate": 4.7258244,
+  "lastUpdate": 1717171179270
 }

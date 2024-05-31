@@ -1,5 +1,6 @@
 {
   "fromCurrency": "USD",
   "toCurrency": "ILS",
-  "rate": 0.269
+  "rate": 0.269,
+  "lastUpdate": 1717171178703
 }

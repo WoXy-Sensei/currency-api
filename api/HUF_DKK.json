@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HUF",
   "toCurrency": "DKK",
-  "rate": 52.1303695
+  "rate": 52.1303695,
+  "lastUpdate": 1717171178876
 }

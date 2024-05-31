@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CZK",
   "toCurrency": "THB",
-  "rate": 0.6188854
+  "rate": 0.6188854,
+  "lastUpdate": 1717171178808
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "INR",
   "toCurrency": "ILS",
-  "rate": 22.4395171
+  "rate": 22.4395171,
+  "lastUpdate": 1717171179318
 }

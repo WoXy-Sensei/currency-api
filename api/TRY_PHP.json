@@ -1,5 +1,6 @@
 {
   "fromCurrency": "TRY",
   "toCurrency": "PHP",
-  "rate": 0.549794
+  "rate": 0.549794,
+  "lastUpdate": 1717171179090
 }

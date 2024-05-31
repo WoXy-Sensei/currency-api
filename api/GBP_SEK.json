@@ -1,5 +1,6 @@
 {
   "fromCurrency": "GBP",
   "toCurrency": "SEK",
-  "rate": 0.0747439
+  "rate": 0.0747439,
+  "lastUpdate": 1717171178849
 }

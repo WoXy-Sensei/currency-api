@@ -1,5 +1,6 @@
 {
   "fromCurrency": "AUD",
   "toCurrency": "PHP",
-  "rate": 0.0256509
+  "rate": 0.0256509,
+  "lastUpdate": 1717171179117
 }

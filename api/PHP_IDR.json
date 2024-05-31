@@ -1,5 +1,6 @@
 {
   "fromCurrency": "PHP",
   "toCurrency": "IDR",
-  "rate": 0.0036053
+  "rate": 0.0036053,
+  "lastUpdate": 1717171179464
 }

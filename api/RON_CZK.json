@@ -1,5 +1,6 @@
 {
   "fromCurrency": "RON",
   "toCurrency": "CZK",
-  "rate": 0.2014124
+  "rate": 0.2014124,
+  "lastUpdate": 1717171178929
 }

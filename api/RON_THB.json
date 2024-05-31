@@ -1,5 +1,6 @@
 {
   "fromCurrency": "RON",
   "toCurrency": "THB",
-  "rate": 0.1246512
+  "rate": 0.1246512,
+  "lastUpdate": 1717171178951
 }

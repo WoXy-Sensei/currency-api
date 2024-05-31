@@ -1,5 +1,6 @@
 {
   "fromCurrency": "NZD",
   "toCurrency": "KRW",
-  "rate": 0.0011789
+  "rate": 0.0011789,
+  "lastUpdate": 1717171179426
 }

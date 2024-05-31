@@ -1,5 +1,6 @@
 {
   "fromCurrency": "DKK",
   "toCurrency": "CHF",
-  "rate": 7.5970666
+  "rate": 7.5970666,
+  "lastUpdate": 1717171178820
 }

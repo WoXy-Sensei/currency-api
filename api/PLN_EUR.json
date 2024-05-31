@@ -1,5 +1,6 @@
 {
   "fromCurrency": "PLN",
   "toCurrency": "EUR",
-  "rate": 4.2645
+  "rate": 4.2645,
+  "lastUpdate": 1717171178898
 }

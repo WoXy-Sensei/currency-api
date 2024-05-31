@@ -1,5 +1,6 @@
 {
   "fromCurrency": "TRY",
   "toCurrency": "INR",
-  "rate": 0.3862901
+  "rate": 0.3862901,
+  "lastUpdate": 1717171179085
 }

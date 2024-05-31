@@ -1,5 +1,6 @@
 {
   "fromCurrency": "DKK",
   "toCurrency": "PHP",
-  "rate": 0.1172694
+  "rate": 0.1172694,
+  "lastUpdate": 1717171178835
 }

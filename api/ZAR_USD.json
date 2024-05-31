@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ZAR",
   "toCurrency": "USD",
-  "rate": 18.6995024
+  "rate": 18.6995024,
+  "lastUpdate": 1717171179596
 }

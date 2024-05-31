@@ -1,5 +1,6 @@
 {
   "fromCurrency": "SGD",
   "toCurrency": "GBP",
-  "rate": 1.7176829
+  "rate": 1.7176829,
+  "lastUpdate": 1717171179495
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "RON",
   "toCurrency": "JPY",
-  "rate": 0.0291854
+  "rate": 0.0291854,
+  "lastUpdate": 1717171178927
 }

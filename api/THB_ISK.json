@@ -1,5 +1,6 @@
 {
   "fromCurrency": "THB",
   "toCurrency": "ISK",
-  "rate": 0.2677733
+  "rate": 0.2677733,
+  "lastUpdate": 1717171179553
 }

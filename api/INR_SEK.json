@@ -1,5 +1,6 @@
 {
   "fromCurrency": "INR",
   "toCurrency": "SEK",
-  "rate": 7.9262324
+  "rate": 7.9262324,
+  "lastUpdate": 1717171179302
 }

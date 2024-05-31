@@ -1,5 +1,6 @@
 {
   "fromCurrency": "AUD",
   "toCurrency": "BGN",
-  "rate": 0.8341855
+  "rate": 0.8341855,
+  "lastUpdate": 1717171179096
 }

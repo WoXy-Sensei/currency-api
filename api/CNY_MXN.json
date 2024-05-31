@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CNY",
   "toCurrency": "MXN",
-  "rate": 0.4261526
+  "rate": 0.4261526,
+  "lastUpdate": 1717171179197
 }

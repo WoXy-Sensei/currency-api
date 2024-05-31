@@ -1,5 +1,6 @@
 {
   "fromCurrency": "DKK",
   "toCurrency": "ISK",
-  "rate": 0.0500255
+  "rate": 0.0500255,
+  "lastUpdate": 1717171178821
 }

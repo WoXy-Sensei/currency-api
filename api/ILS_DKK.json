@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ILS",
   "toCurrency": "DKK",
-  "rate": 0.5408645
+  "rate": 0.5408645,
+  "lastUpdate": 1717171179269
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "MYR",
   "toCurrency": "GBP",
-  "rate": 5.983717
+  "rate": 5.983717,
+  "lastUpdate": 1717171179384
 }

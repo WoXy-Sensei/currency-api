@@ -1,5 +1,6 @@
 {
   "fromCurrency": "SGD",
   "toCurrency": "CHF",
-  "rate": 1.4934814
+  "rate": 1.4934814,
+  "lastUpdate": 1717171179507
 }

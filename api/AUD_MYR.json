@@ -1,5 +1,6 @@
 {
   "fromCurrency": "AUD",
   "toCurrency": "MYR",
-  "rate": 0.3194009
+  "rate": 0.3194009,
+  "lastUpdate": 1717171179115
 }

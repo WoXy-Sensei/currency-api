@@ -1,5 +1,6 @@
 {
   "fromCurrency": "SGD",
   "toCurrency": "SEK",
-  "rate": 0.1283863
+  "rate": 0.1283863,
+  "lastUpdate": 1717171179498
 }

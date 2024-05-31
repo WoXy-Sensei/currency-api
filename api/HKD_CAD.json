@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HKD",
   "toCurrency": "CAD",
-  "rate": 5.7307484
+  "rate": 5.7307484,
+  "lastUpdate": 1717171179217
 }

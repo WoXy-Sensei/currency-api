@@ -1,5 +1,6 @@
 {
   "fromCurrency": "USD",
   "toCurrency": "CHF",
-  "rate": 1.1053168
+  "rate": 1.1053168,
+  "lastUpdate": 1717171178694
 }

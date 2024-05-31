@@ -1,5 +1,6 @@
 {
   "fromCurrency": "BGN",
   "toCurrency": "PLN",
-  "rate": 0.4586235
+  "rate": 0.4586235,
+  "lastUpdate": 1717171178760
 }

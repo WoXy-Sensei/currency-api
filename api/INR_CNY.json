@@ -1,5 +1,6 @@
 {
   "fromCurrency": "INR",
   "toCurrency": "CNY",
-  "rate": 11.5206104
+  "rate": 11.5206104,
+  "lastUpdate": 1717171179312
 }

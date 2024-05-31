@@ -1,5 +1,6 @@
 {
   "fromCurrency": "JPY",
   "toCurrency": "CNY",
-  "rate": 21.7010067
+  "rate": 21.7010067,
+  "lastUpdate": 1717171178737
 }

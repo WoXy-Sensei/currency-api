@@ -1,5 +1,6 @@
 {
   "fromCurrency": "SGD",
   "toCurrency": "CAD",
-  "rate": 0.9904755
+  "rate": 0.9904755,
+  "lastUpdate": 1717171179512
 }

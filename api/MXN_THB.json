@@ -1,5 +1,6 @@
 {
   "fromCurrency": "MXN",
   "toCurrency": "THB",
-  "rate": 0.4618334
+  "rate": 0.4618334,
+  "lastUpdate": 1717171179378
 }

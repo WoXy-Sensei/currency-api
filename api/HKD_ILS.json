@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HKD",
   "toCurrency": "ILS",
-  "rate": 2.1029696
+  "rate": 2.1029696,
+  "lastUpdate": 1717171179222
 }

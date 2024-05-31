@@ -1,5 +1,6 @@
 {
   "fromCurrency": "SEK",
   "toCurrency": "CHF",
-  "rate": 11.6327154
+  "rate": 11.6327154,
+  "lastUpdate": 1717171178964
 }

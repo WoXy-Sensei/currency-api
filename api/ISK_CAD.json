@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ISK",
   "toCurrency": "CAD",
-  "rate": 100.7160227
+  "rate": 100.7160227,
+  "lastUpdate": 1717171179025
 }

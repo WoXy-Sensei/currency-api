@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ZAR",
   "toCurrency": "CHF",
-  "rate": 20.6688735
+  "rate": 20.6688735,
+  "lastUpdate": 1717171179614
 }

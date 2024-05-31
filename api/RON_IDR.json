@@ -1,5 +1,6 @@
 {
   "fromCurrency": "RON",
   "toCurrency": "IDR",
-  "rate": 0.0002821
+  "rate": 0.0002821,
+  "lastUpdate": 1717171178944
 }

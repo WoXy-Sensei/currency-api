@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HKD",
   "toCurrency": "THB",
-  "rate": 0.2124934
+  "rate": 0.2124934,
+  "lastUpdate": 1717171179235
 }

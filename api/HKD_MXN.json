@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HKD",
   "toCurrency": "MXN",
-  "rate": 0.4601084
+  "rate": 0.4601084,
+  "lastUpdate": 1717171179227
 }

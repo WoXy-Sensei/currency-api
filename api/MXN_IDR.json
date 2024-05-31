@@ -1,5 +1,6 @@
 {
   "fromCurrency": "MXN",
   "toCurrency": "IDR",
-  "rate": 0.0010452
+  "rate": 0.0010452,
+  "lastUpdate": 1717171179371
 }

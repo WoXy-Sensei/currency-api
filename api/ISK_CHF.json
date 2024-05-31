@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ISK",
   "toCurrency": "CHF",
-  "rate": 151.8639234
+  "rate": 151.8639234,
+  "lastUpdate": 1717171179019
 }

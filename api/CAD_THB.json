@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CAD",
   "toCurrency": "THB",
-  "rate": 0.0370795
+  "rate": 0.0370795,
+  "lastUpdate": 1717171179174
 }

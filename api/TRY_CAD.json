@@ -1,5 +1,6 @@
 {
   "fromCurrency": "TRY",
   "toCurrency": "CAD",
-  "rate": 23.6213861
+  "rate": 23.6213861,
+  "lastUpdate": 1717171179082
 }

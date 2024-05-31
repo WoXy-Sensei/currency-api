@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HKD",
   "toCurrency": "EUR",
-  "rate": 8.4838
+  "rate": 8.4838,
+  "lastUpdate": 1717171179202
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HKD",
   "toCurrency": "ZAR",
-  "rate": 0.4180715
+  "rate": 0.4180715,
+  "lastUpdate": 1717171179236
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "MXN",
   "toCurrency": "TRY",
-  "rate": 0.5272855
+  "rate": 0.5272855,
+  "lastUpdate": 1717171179367
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CAD",
   "toCurrency": "AUD",
-  "rate": 0.9073858
+  "rate": 0.9073858,
+  "lastUpdate": 1717171179163
 }

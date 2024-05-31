@@ -1,5 +1,6 @@
 {
   "fromCurrency": "BRL",
   "toCurrency": "HUF",
-  "rate": 0.0145097
+  "rate": 0.0145097,
+  "lastUpdate": 1717171179128
 }

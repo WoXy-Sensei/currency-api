@@ -1,5 +1,6 @@
 {
   "fromCurrency": "THB",
   "toCurrency": "SEK",
-  "rate": 3.4957534
+  "rate": 3.4957534,
+  "lastUpdate": 1717171179550
 }

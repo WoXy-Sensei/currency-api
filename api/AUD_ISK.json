@@ -1,5 +1,6 @@
 {
   "fromCurrency": "AUD",
   "toCurrency": "ISK",
-  "rate": 0.0109423
+  "rate": 0.0109423,
+  "lastUpdate": 1717171179103
 }

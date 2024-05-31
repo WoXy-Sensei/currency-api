@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CHF",
   "toCurrency": "ILS",
-  "rate": 0.2433692
+  "rate": 0.2433692,
+  "lastUpdate": 1717171179001
 }

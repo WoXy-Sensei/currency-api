@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CNY",
   "toCurrency": "HUF",
-  "rate": 0.0202086
+  "rate": 0.0202086,
+  "lastUpdate": 1717171179181
 }

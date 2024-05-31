@@ -1,5 +1,6 @@
 {
   "fromCurrency": "BGN",
   "toCurrency": "HUF",
-  "rate": 0.00503
+  "rate": 0.00503,
+  "lastUpdate": 1717171178759
 }

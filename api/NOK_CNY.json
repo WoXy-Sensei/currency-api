@@ -1,5 +1,6 @@
 {
   "fromCurrency": "NOK",
   "toCurrency": "CNY",
-  "rate": 1.4486427
+  "rate": 1.4486427,
+  "lastUpdate": 1717171179054
 }

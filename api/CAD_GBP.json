@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CAD",
   "toCurrency": "GBP",
-  "rate": 1.7342002
+  "rate": 1.7342002,
+  "lastUpdate": 1717171179154
 }

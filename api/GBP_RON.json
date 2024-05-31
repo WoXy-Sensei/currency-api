@@ -1,5 +1,6 @@
 {
   "fromCurrency": "GBP",
   "toCurrency": "RON",
-  "rate": 0.1715293
+  "rate": 0.1715293,
+  "lastUpdate": 1717171178848
 }

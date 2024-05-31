@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CNY",
   "toCurrency": "GBP",
-  "rate": 9.2048263
+  "rate": 9.2048263,
+  "lastUpdate": 1717171179180
 }

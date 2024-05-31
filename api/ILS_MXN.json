@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ILS",
   "toCurrency": "MXN",
-  "rate": 0.2187898
+  "rate": 0.2187898,
+  "lastUpdate": 1717171179285
 }

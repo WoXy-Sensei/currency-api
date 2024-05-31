@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HUF",
   "toCurrency": "SGD",
-  "rate": 265.1776581
+  "rate": 265.1776581,
+  "lastUpdate": 1717171178896
 }

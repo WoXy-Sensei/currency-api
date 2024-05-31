@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ILS",
   "toCurrency": "SEK",
-  "rate": 0.3532265
+  "rate": 0.3532265,
+  "lastUpdate": 1717171179274
 }

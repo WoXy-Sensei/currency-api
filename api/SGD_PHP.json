@@ -1,5 +1,6 @@
 {
   "fromCurrency": "SGD",
   "toCurrency": "PHP",
-  "rate": 0.0230536
+  "rate": 0.0230536,
+  "lastUpdate": 1717171179528
 }

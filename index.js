@@ -21,13 +21,13 @@ const currencyPattern =/<Cube\s+currency='([A-Z]{3})'\s+rate='([\d.]+)'\/>/;
     const fromCurrency = currencies[from].match(currencyPattern)[1];
     const fromRate = parseFloat(currencies[from].match(currencyPattern)[2]);
     console.log(`1 ${fromCurrency} to ${fromRate} EUR`);
-    await createFile({fromCurrency,toCurrency:'EUR',rate:fromRate},`${fromCurrency}_EUR`);
+    await createFile({fromCurrency,toCurrency:'EUR',rate:fromRate,lastUpdate:Date.now()},`${fromCurrency}_EUR`);
     await chillout.repeat(currencies.length , async (to) => {
         const toCurrency = currencies[to].match(currencyPattern)[1];
         const toRate = parseFloat(currencies[to].match(currencyPattern)[2]);
         const fromToRate = fromTo(toRate, fromRate);
         console.log(`1 ${fromCurrency} to ${fromToRate} ${toCurrency}`);
-        await createFile({fromCurrency,toCurrency,rate:fromToRate},`${fromCurrency}_${toCurrency}`);
+        await createFile({fromCurrency,toCurrency,rate:fromToRate,lastUpdate:Date.now()},`${fromCurrency}_${toCurrency}`);
     });
   });
 

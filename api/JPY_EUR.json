@@ -1,5 +1,6 @@
 {
   "fromCurrency": "JPY",
   "toCurrency": "EUR",
-  "rate": 170.52
+  "rate": 170.52,
+  "lastUpdate": 1717171178713
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "NOK",
   "toCurrency": "HKD",
-  "rate": 1.3417337
+  "rate": 1.3417337,
+  "lastUpdate": 1717171179055
 }

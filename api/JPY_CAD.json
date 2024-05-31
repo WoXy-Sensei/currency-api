@@ -1,5 +1,6 @@
 {
   "fromCurrency": "JPY",
   "toCurrency": "CAD",
-  "rate": 115.1850851
+  "rate": 115.1850851,
+  "lastUpdate": 1717171178736
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CAD",
   "toCurrency": "BGN",
-  "rate": 0.7569281
+  "rate": 0.7569281,
+  "lastUpdate": 1717171179152
 }

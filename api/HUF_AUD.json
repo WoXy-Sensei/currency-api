@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HUF",
   "toCurrency": "AUD",
-  "rate": 238.3266932
+  "rate": 238.3266932,
+  "lastUpdate": 1717171178884
 }

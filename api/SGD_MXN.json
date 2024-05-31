@@ -1,5 +1,6 @@
 {
   "fromCurrency": "SGD",
   "toCurrency": "MXN",
-  "rate": 0.079523
+  "rate": 0.079523,
+  "lastUpdate": 1717171179526
 }

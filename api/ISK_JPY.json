@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ISK",
   "toCurrency": "JPY",
-  "rate": 0.8743842
+  "rate": 0.8743842,
+  "lastUpdate": 1717171179011
 }

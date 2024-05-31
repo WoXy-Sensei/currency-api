@@ -1,5 +1,6 @@
 {
   "fromCurrency": "NOK",
   "toCurrency": "HUF",
-  "rate": 0.029275
+  "rate": 0.029275,
+  "lastUpdate": 1717171179045
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ISK",
   "toCurrency": "SGD",
-  "rate": 101.684512
+  "rate": 101.684512,
+  "lastUpdate": 1717171179034
 }

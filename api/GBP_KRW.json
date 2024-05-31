@@ -1,5 +1,6 @@
 {
   "fromCurrency": "GBP",
   "toCurrency": "KRW",
-  "rate": 0.0005687
+  "rate": 0.0005687,
+  "lastUpdate": 1717171178864
 }

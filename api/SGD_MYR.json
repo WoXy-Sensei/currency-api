@@ -1,5 +1,6 @@
 {
   "fromCurrency": "SGD",
   "toCurrency": "MYR",
-  "rate": 0.2870595
+  "rate": 0.2870595,
+  "lastUpdate": 1717171179527
 }

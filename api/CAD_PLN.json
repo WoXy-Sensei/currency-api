@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CAD",
   "toCurrency": "PLN",
-  "rate": 0.347145
+  "rate": 0.347145,
+  "lastUpdate": 1717171179155
 }

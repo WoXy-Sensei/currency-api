@@ -1,5 +1,6 @@
 {
   "fromCurrency": "RON",
   "toCurrency": "TRY",
-  "rate": 0.1423171
+  "rate": 0.1423171,
+  "lastUpdate": 1717171178937
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "AUD",
   "toCurrency": "RON",
-  "rate": 0.3278277
+  "rate": 0.3278277,
+  "lastUpdate": 1717171179101
 }

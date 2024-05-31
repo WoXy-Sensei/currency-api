@@ -1,5 +1,6 @@
 {
   "fromCurrency": "USD",
   "toCurrency": "NZD",
-  "rate": 0.6132459
+  "rate": 0.6132459,
+  "lastUpdate": 1717171178706
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "MXN",
   "toCurrency": "ISK",
-  "rate": 0.1236667
+  "rate": 0.1236667,
+  "lastUpdate": 1717171179366
 }

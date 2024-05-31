@@ -1,5 +1,6 @@
 {
   "fromCurrency": "THB",
   "toCurrency": "NZD",
-  "rate": 22.5615958
+  "rate": 22.5615958,
+  "lastUpdate": 1717171179590
 }

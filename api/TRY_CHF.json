@@ -1,5 +1,6 @@
 {
   "fromCurrency": "TRY",
   "toCurrency": "CHF",
-  "rate": 35.6173355
+  "rate": 35.6173355,
+  "lastUpdate": 1717171179077
 }

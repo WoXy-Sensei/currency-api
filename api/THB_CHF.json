@@ -1,5 +1,6 @@
 {
   "fromCurrency": "THB",
   "toCurrency": "CHF",
-  "rate": 40.6651049
+  "rate": 40.6651049,
+  "lastUpdate": 1717171179551
 }

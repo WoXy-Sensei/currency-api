@@ -1,5 +1,6 @@
 {
   "fromCurrency": "RON",
   "toCurrency": "ZAR",
-  "rate": 0.2452458
+  "rate": 0.2452458,
+  "lastUpdate": 1717171178952
 }

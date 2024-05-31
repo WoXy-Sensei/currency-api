@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HKD",
   "toCurrency": "CZK",
-  "rate": 0.3433486
+  "rate": 0.3433486,
+  "lastUpdate": 1717171179207
 }

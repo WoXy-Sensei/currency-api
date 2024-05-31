@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CHF",
   "toCurrency": "PLN",
-  "rate": 0.2302263
+  "rate": 0.2302263,
+  "lastUpdate": 1717171178991
 }

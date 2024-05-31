@@ -1,5 +1,6 @@
 {
   "fromCurrency": "SGD",
   "toCurrency": "TRY",
-  "rate": 0.0419313
+  "rate": 0.0419313,
+  "lastUpdate": 1717171179510
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CAD",
   "toCurrency": "MXN",
-  "rate": 0.0802877
+  "rate": 0.0802877,
+  "lastUpdate": 1717171179169
 }

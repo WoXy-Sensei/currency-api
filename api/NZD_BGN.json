@@ -1,5 +1,6 @@
 {
   "fromCurrency": "NZD",
   "toCurrency": "BGN",
-  "rate": 0.904796
+  "rate": 0.904796,
+  "lastUpdate": 1717171179411
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "NOK",
   "toCurrency": "THB",
-  "rate": 0.2851096
+  "rate": 0.2851096,
+  "lastUpdate": 1717171179066
 }

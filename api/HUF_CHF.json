@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HUF",
   "toCurrency": "CHF",
-  "rate": 396.0378896
+  "rate": 396.0378896,
+  "lastUpdate": 1717171178881
 }

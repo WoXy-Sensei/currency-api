@@ -1,5 +1,6 @@
 {
   "fromCurrency": "MYR",
   "toCurrency": "HKD",
-  "rate": 0.6020887
+  "rate": 0.6020887,
+  "lastUpdate": 1717171179397
 }

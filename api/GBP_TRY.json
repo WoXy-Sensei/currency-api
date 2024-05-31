@@ -1,5 +1,6 @@
 {
   "fromCurrency": "GBP",
   "toCurrency": "TRY",
-  "rate": 0.0244116
+  "rate": 0.0244116,
+  "lastUpdate": 1717171178853
 }

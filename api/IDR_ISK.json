@@ -1,5 +1,6 @@
 {
   "fromCurrency": "IDR",
   "toCurrency": "ISK",
-  "rate": 118.321395
+  "rate": 118.321395,
+  "lastUpdate": 1717171179248
 }

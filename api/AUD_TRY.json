@@ -1,5 +1,6 @@
 {
   "fromCurrency": "AUD",
   "toCurrency": "TRY",
-  "rate": 0.0466555
+  "rate": 0.0466555,
+  "lastUpdate": 1717171179105
 }

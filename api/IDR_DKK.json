@@ -1,5 +1,6 @@
 {
   "fromCurrency": "IDR",
   "toCurrency": "DKK",
-  "rate": 2365.2222878
+  "rate": 2365.2222878,
+  "lastUpdate": 1717171179243
 }

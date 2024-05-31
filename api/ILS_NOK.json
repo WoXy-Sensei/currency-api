@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ILS",
   "toCurrency": "NOK",
-  "rate": 0.3544057
+  "rate": 0.3544057,
+  "lastUpdate": 1717171179276
 }

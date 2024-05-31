@@ -1,5 +1,6 @@
 {
   "fromCurrency": "RON",
   "toCurrency": "NOK",
-  "rate": 0.4372046
+  "rate": 0.4372046,
+  "lastUpdate": 1717171178937
 }

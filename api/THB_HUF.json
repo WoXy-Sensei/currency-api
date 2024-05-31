@@ -1,5 +1,6 @@
 {
   "fromCurrency": "THB",
   "toCurrency": "HUF",
-  "rate": 0.1026798
+  "rate": 0.1026798,
+  "lastUpdate": 1717171179546
 }

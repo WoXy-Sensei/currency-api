@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CNY",
   "toCurrency": "PHP",
-  "rate": 0.123541
+  "rate": 0.123541,
+  "lastUpdate": 1717171179200
 }

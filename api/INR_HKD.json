@@ -1,5 +1,6 @@
 {
   "fromCurrency": "INR",
   "toCurrency": "HKD",
-  "rate": 10.6703953
+  "rate": 10.6703953,
+  "lastUpdate": 1717171179314
 }

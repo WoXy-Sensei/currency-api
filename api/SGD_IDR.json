@@ -1,5 +1,6 @@
 {
   "fromCurrency": "SGD",
   "toCurrency": "IDR",
-  "rate": 0.0000831
+  "rate": 0.0000831,
+  "lastUpdate": 1717171179514
 }

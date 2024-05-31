@@ -1,5 +1,6 @@
 {
   "fromCurrency": "DKK",
   "toCurrency": "TRY",
-  "rate": 0.2132969
+  "rate": 0.2132969,
+  "lastUpdate": 1717171178823
 }

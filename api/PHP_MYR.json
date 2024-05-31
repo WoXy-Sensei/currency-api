@@ -1,5 +1,6 @@
 {
   "fromCurrency": "PHP",
   "toCurrency": "MYR",
-  "rate": 12.4518403
+  "rate": 12.4518403,
+  "lastUpdate": 1717171179477
 }

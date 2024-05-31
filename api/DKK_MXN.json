@@ -1,5 +1,6 @@
 {
   "fromCurrency": "DKK",
   "toCurrency": "MXN",
-  "rate": 0.4045188
+  "rate": 0.4045188,
+  "lastUpdate": 1717171178832
 }

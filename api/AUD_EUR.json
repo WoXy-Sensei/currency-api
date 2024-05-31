@@ -1,5 +1,6 @@
 {
   "fromCurrency": "AUD",
   "toCurrency": "EUR",
-  "rate": 1.6315
+  "rate": 1.6315,
+  "lastUpdate": 1717171179094
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HKD",
   "toCurrency": "TRY",
-  "rate": 0.2426085
+  "rate": 0.2426085,
+  "lastUpdate": 1717171179215
 }

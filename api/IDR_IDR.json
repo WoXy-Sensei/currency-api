@@ -1,5 +1,6 @@
 {
   "fromCurrency": "IDR",
   "toCurrency": "IDR",
-  "rate": 1
+  "rate": 1,
+  "lastUpdate": 1717171179255
 }

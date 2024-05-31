@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CNY",
   "toCurrency": "CZK",
-  "rate": 0.3180096
+  "rate": 0.3180096,
+  "lastUpdate": 1717171179179
 }

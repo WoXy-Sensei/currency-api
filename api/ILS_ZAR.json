@@ -1,5 +1,6 @@
 {
   "fromCurrency": "ILS",
   "toCurrency": "ZAR",
-  "rate": 0.1988006
+  "rate": 0.1988006,
+  "lastUpdate": 1717171179290
 }

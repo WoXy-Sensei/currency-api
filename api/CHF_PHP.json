@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CHF",
   "toCurrency": "PHP",
-  "rate": 0.0154361
+  "rate": 0.0154361,
+  "lastUpdate": 1717171179005
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "GBP",
   "toCurrency": "NOK",
-  "rate": 0.0749934
+  "rate": 0.0749934,
+  "lastUpdate": 1717171178852
 }

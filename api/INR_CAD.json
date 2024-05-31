@@ -1,5 +1,6 @@
 {
   "fromCurrency": "INR",
   "toCurrency": "CAD",
-  "rate": 61.1493515
+  "rate": 61.1493515,
+  "lastUpdate": 1717171179310
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HKD",
   "toCurrency": "BGN",
-  "rate": 4.3377646
+  "rate": 4.3377646,
+  "lastUpdate": 1717171179206
 }

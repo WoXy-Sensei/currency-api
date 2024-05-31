@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HUF",
   "toCurrency": "SEK",
-  "rate": 34.0451799
+  "rate": 34.0451799,
+  "lastUpdate": 1717171178880
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "TRY",
   "toCurrency": "ISK",
-  "rate": 0.2345345
+  "rate": 0.2345345,
+  "lastUpdate": 1717171179078
 }

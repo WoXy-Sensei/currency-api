@@ -1,5 +1,6 @@
 {
   "fromCurrency": "USD",
   "toCurrency": "BGN",
-  "rate": 0.5548625
+  "rate": 0.5548625,
+  "lastUpdate": 1717171178686
 }

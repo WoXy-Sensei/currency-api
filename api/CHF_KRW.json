@@ -1,5 +1,6 @@
 {
   "fromCurrency": "CHF",
   "toCurrency": "KRW",
-  "rate": 0.000654
+  "rate": 0.000654,
+  "lastUpdate": 1717171179002
 }

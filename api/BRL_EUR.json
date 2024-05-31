@@ -1,5 +1,6 @@
 {
   "fromCurrency": "BRL",
   "toCurrency": "EUR",
-  "rate": 5.6418
+  "rate": 5.6418,
+  "lastUpdate": 1717171179121
 }

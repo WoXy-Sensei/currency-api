@@ -1,5 +1,6 @@
 {
   "fromCurrency": "HKD",
   "toCurrency": "ISK",
-  "rate": 0.0569001
+  "rate": 0.0569001,
+  "lastUpdate": 1717171179214
 }

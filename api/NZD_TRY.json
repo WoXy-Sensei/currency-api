@@ -1,5 +1,6 @@
 {
   "fromCurrency": "NZD",
   "toCurrency": "TRY",
-  "rate": 0.0506047
+  "rate": 0.0506047,
+  "lastUpdate": 1717171179419
 }

@@ -1,5 +1,6 @@
 {
   "fromCurrency": "RON",
   "toCurrency": "SGD",
-  "rate": 3.3940531
+  "rate": 3.3940531,
+  "lastUpdate": 1717171178950
 }
