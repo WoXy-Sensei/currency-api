@@ -33,6 +33,6 @@ jobs:
     
     - name: Commit and push changes
       run: |
-        git add .
+        git add api -f
         git commit -m "Daily currency update 💵💰"
-        git push
+        git push -f
