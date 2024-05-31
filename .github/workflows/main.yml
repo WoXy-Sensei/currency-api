@@ -1,0 +1,38 @@
+name: Currency Api
+
+on:
+  schedule:
+    - cron: "*/1 * * * *"
+    
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest 
+    steps: 
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20.14.0'  
+    
+    - name: Install dependencies
+      run: |
+        npm install 
+    
+    - name: Run script
+      run: |
+        npm start
+    
+    - name: Configure git
+      run: |
+        git config --global user.name 'WoXy-Sensei'
+        git config --global user.email 'bardiaramez@gmail.com'
+    
+    - name: Commit and push changes
+      run: |
+        git add api -f
+        git commit -m "Daily currency update 💵💰"
+        git push -f
