@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
   },
   "author": "WoXy-Sensei",
   "license": "ISC",
   "dependencies": {
-    "chillout": "^5.0.0",
-    "fast-xml-parser": "^4.4.0"
+    "chillout": "^5.0.0"
   }
 }
