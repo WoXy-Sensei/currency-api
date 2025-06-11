@@ -25,7 +25,7 @@ const currencyPattern =/<Cube\s+currency='([A-Z]{3})'\s+rate='([\d.]+)'\/>/;
     await chillout.repeat(currencies.length , async (to) => {
         const toCurrency = currencies[to].match(currencyPattern)[1];
         const toRate = parseFloat(currencies[to].match(currencyPattern)[2]);
-        const fromToRate = fromTo(toRate, fromRate);
+        const fromToRate = fromTo(fromRate, toRate);
         console.log(`1 ${fromCurrency} to ${fromToRate} ${toCurrency}`);
         await createFile({fromCurrency,toCurrency,rate:fromToRate,lastUpdate:Date.now()},`${fromCurrency}_${toCurrency}`);
     });
@@ -34,7 +34,7 @@ const currencyPattern =/<Cube\s+currency='([A-Z]{3})'\s+rate='([\d.]+)'\/>/;
 })();
 
 const fromTo = (from , to) =>{
-  const rate = to/from;
+  const rate = from/to;
   return Number(rate.toFixed(7));
 }
 
