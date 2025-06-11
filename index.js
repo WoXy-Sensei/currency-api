@@ -34,7 +34,7 @@ const currencyPattern =/<Cube\s+currency='([A-Z]{3})'\s+rate='([\d.]+)'\/>/;
 })();
 
 const fromTo = (from , to) =>{
-  const rate = from/to;
+  const rate = to / from;
   return Number(rate.toFixed(7));
 }
 
